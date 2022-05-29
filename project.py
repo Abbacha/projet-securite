@@ -1,5 +1,5 @@
 import pynput
-
+# Ce program realiser par Abbcha Abderraouf   (Un keyboard lestner)
 from pynput.keyboard import Key,Listener
 count = 0
 keys = ()
